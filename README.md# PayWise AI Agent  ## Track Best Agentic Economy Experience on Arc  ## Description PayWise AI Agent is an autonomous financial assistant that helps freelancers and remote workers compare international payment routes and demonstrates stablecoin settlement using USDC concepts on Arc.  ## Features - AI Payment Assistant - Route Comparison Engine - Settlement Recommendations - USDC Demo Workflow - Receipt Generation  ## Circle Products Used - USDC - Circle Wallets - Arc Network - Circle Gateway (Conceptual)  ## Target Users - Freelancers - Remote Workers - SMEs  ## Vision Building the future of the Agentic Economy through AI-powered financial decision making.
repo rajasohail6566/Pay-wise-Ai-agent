@@ -1,0 +1,95 @@
+# PayWise AI Agent
+
+## Track
+Best Agentic Economy Experience on Arc
+
+## Tagline
+An AI Agent That Doesn't Just Advise — It Acts.
+
+## Overview
+PayWise AI Agent is an autonomous financial assistant designed to help freelancers, remote workers, and SMEs make smarter cross-border payment decisions using stablecoin infrastructure.
+
+## Problem
+Millions of freelancers and remote workers face:
+
+- High international transfer fees
+- Slow settlement times
+- Limited transparency
+- Complex payment decisions
+
+Traditional payment tools only provide information and do not actively help users make the best decision.
+
+## Solution
+PayWise AI Agent:
+
+1. Understands payment requests
+2. Compares payment routes
+3. Evaluates fees and settlement time
+4. Explains its recommendation
+5. Demonstrates USDC settlement concepts
+6. Generates a transaction receipt
+
+## Example
+
+### User Request
+Send $500 to Pakistan
+
+### Route Comparison
+
+| Route | Fee | Time |
+|---------|---------|---------|
+| Bank Wire | $45 | 5-7 Days |
+| Western Union | $25 | 2-3 Days |
+| USDC | $1 | 5 Minutes |
+
+### Recommendation
+USDC is recommended because it provides the lowest cost and fastest settlement.
+
+## Circle Products Used
+
+- USDC
+- Circle Wallets
+- Arc Network
+- Circle Gateway (Conceptual)
+
+## Key Features
+
+- AI Financial Assistant
+- Intelligent Route Optimization
+- Payment Recommendation Engine
+- USDC Settlement Demo
+- Smart Receipt Generator
+
+## Target Users
+
+- Freelancers
+- Remote Workers
+- SMEs
+- International Contractors
+
+## Future Roadmap
+
+- Autonomous Payroll Agents
+- Agent-to-Agent Payments
+- Multi-Country Routing
+- Stablecoin Treasury Automation
+
+## Circle Product Feedback
+
+### Why These Products
+USDC and Arc provide a simple foundation for demonstrating modern payment workflows.
+
+### What Worked Well
+The stablecoin-based settlement model is easy to understand and suitable for global payments.
+
+### What Could Be Improved
+Additional beginner-friendly tutorials and no-code examples would help new builders.
+
+### Recommendations
+Expanded educational resources and visual workflow examples would improve developer onboarding.
+
+## Author
+
+Raja Sohail
+
+Hackathon Submission for The Stablecoins Commerce Stack Challenge
